@@ -1,0 +1,29 @@
+.wrapper {
+    margin: 5px;
+}
+
+h1 {
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 700px;
+}
+
+#background1 {
+    background-color: lightpink;
+    width: 50%;
+    height: 600px;
+    text-align: center;
+    position: fixed;
+}
+
+#background1 h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: navy;
+}
+
+#background1 p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    border: 5px dashed olive;
+}
